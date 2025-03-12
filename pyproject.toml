@@ -1,0 +1,2 @@
+[tool.taskipy.tasks]
+serve = { cmd = "taipy run taipy_application/main.py", help = "Starts taipy server." }
